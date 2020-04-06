@@ -1,0 +1,10 @@
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte I.csprojAssemblyReference.cache
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte_I.Form1.resources
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte_I.Properties.Resources.resources
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte I.csproj.GenerateResource.cache
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte I.csproj.CoreCompileInputs.cache
+C:\Users\Gissela\Desktop\Parte I\Parte I\bin\Debug\Parte I.exe.config
+C:\Users\Gissela\Desktop\Parte I\Parte I\bin\Debug\Parte I.exe
+C:\Users\Gissela\Desktop\Parte I\Parte I\bin\Debug\Parte I.pdb
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte I.exe
+C:\Users\Gissela\Desktop\Parte I\Parte I\obj\Debug\Parte I.pdb
